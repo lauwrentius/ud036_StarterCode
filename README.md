@@ -2,5 +2,6 @@
 This project generates HTML file containing my favorite movies, and trailer.
 
 ## Usage
+Download this repo to your local machine  
 Install python  
-Run `entertainment_center.py` in terminal
+Run `python entertainment_center.py` in terminal
