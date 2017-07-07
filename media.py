@@ -18,7 +18,7 @@ class Movie():
         poster_image_url : string
             Movie poster web URL
         trailer_youtube_url : string
-            Movie trailer youtube URL
+            Movie trailer youtube URL            
         """
         self.title = title
         self.storyline = storyline
