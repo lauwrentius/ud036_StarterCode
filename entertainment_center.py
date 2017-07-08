@@ -22,7 +22,7 @@ rogue_one = media.Movie("Rogue One",
 back_future = media.Movie("Back to the Future",
     "Marty McFly, a 17-year-old high school student, is accidentally sent 30 "
     "years into the past in a time-traveling DeLorean invented by his close "
-    'friend, the maverick scientist Doc Brown.",
+    "friend, the maverick scientist Doc Brown.",
     "https://images-na.ssl-images-amazon.com/images/M/MV5BZmU0M2Y1OGUtZjIxNi00ZjBkLTg1MjgtOWIyNThiZWIwYjRiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY1000_CR0,0,643,1000_AL_.jpg",  # NOQA
     "https://www.youtube.com/watch?v=qvsgGtivCgs"
     )
@@ -30,7 +30,7 @@ back_future = media.Movie("Back to the Future",
 # create jurassic_park movie instance
 jurassic_park = media.Movie("Jurassic Park",
     "During a preview tour, a theme park suffers a major power breakdown that "
-    " allows its cloned dinosaur exhibits to run amok.",
+    "allows its cloned dinosaur exhibits to run amok.",
     "https://images-na.ssl-images-amazon.com/images/M/MV5BMjM2MDgxMDg0Nl5BMl5BanBnXkFtZTgwNTM2OTM5NDE@._V1_.jpg",  # NOQA
     "https://www.youtube.com/watch?v=lc0UehYemQA"
     )
@@ -39,7 +39,7 @@ jurassic_park = media.Movie("Jurassic Park",
 wall_e = media.Movie("WALL E",
     "In the distant future, a small waste-collecting robot inadvertently "
     "embarks on a space journey that will ultimately decide the fate of "
-    mankind.",
+    "mankind.",
     "https://images-na.ssl-images-amazon.com/images/M/MV5BMjExMTg5OTU0NF5BMl5BanBnXkFtZTcwMjMxMzMzMw@@._V1_SY1000_CR0,0,674,1000_AL_.jpg",  # NOQA
     "https://www.youtube.com/watch?v=alIq_wG9FNk"
     )
